@@ -62,8 +62,8 @@ a.brand > img {
 /* Home Page Search Bar Background */
 
 #docsSearch {
-    background: #ffffff;
-    border-top: 1px solid #dadada;
+    background: red;
+    border-top: 1px solid red;
     margin-bottom: 3em;
     padding: 1.5em 0;
 }
